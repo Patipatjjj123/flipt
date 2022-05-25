@@ -1,9 +1,9 @@
 ---
-name: google.golang.org/grpc/internal/backoff
+name: google.golang.org/grpc/internal/pretty
 version: v1.46.2
 type: go
-summary: Package backoff implement the backoff strategy for gRPC.
-homepage: https://pkg.go.dev/google.golang.org/grpc/internal/backoff
+summary: Package pretty defines helper functions to pretty-print structs for logging.
+homepage: https://pkg.go.dev/google.golang.org/grpc/internal/pretty
 license: apache-2.0
 licenses:
 - sources: grpc@v1.46.2/LICENSE

@@ -1,9 +1,9 @@
 ---
-name: google.golang.org/grpc/internal/backoff
+name: google.golang.org/grpc/internal/balancer/gracefulswitch
 version: v1.46.2
 type: go
-summary: Package backoff implement the backoff strategy for gRPC.
-homepage: https://pkg.go.dev/google.golang.org/grpc/internal/backoff
+summary: Package gracefulswitch implements a graceful switch load balancer.
+homepage: https://pkg.go.dev/google.golang.org/grpc/internal/balancer/gracefulswitch
 license: apache-2.0
 licenses:
 - sources: grpc@v1.46.2/LICENSE

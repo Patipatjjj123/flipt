@@ -1,9 +1,9 @@
 ---
-name: google.golang.org/grpc/internal/backoff
+name: google.golang.org/grpc/health/grpc_health_v1
 version: v1.46.2
 type: go
-summary: Package backoff implement the backoff strategy for gRPC.
-homepage: https://pkg.go.dev/google.golang.org/grpc/internal/backoff
+summary: 
+homepage: https://pkg.go.dev/google.golang.org/grpc/health/grpc_health_v1
 license: apache-2.0
 licenses:
 - sources: grpc@v1.46.2/LICENSE

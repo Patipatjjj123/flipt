@@ -1,9 +1,10 @@
 ---
-name: google.golang.org/grpc/internal/backoff
+name: google.golang.org/grpc/channelz
 version: v1.46.2
 type: go
-summary: Package backoff implement the backoff strategy for gRPC.
-homepage: https://pkg.go.dev/google.golang.org/grpc/internal/backoff
+summary: Package channelz exports internals of the channelz implementation as required
+  by other gRPC packages.
+homepage: https://pkg.go.dev/google.golang.org/grpc/channelz
 license: apache-2.0
 licenses:
 - sources: grpc@v1.46.2/LICENSE
