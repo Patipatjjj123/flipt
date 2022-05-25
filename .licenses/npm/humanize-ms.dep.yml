@@ -1,17 +1,13 @@
 ---
-name: yargs
-version: 17.5.1
+name: humanize-ms
+version: 1.2.1
 type: npm
-summary: yargs the modern, pirate-themed, successor to optimist.
-homepage: https://yargs.js.org/
+summary: transform humanize time to ms
+homepage: 
 license: mit
 licenses:
 - sources: LICENSE
   text: |
-    MIT License
-
-    Copyright 2010 James Halliday (mail@substack.net); Modified work Copyright 2014 Contributors (ben@npmjs.com)
-
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
     in the Software without restriction, including without limitation the rights

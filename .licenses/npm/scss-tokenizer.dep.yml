@@ -1,6 +1,6 @@
 ---
 name: scss-tokenizer
-version: 0.2.3
+version: 0.3.0
 type: npm
 summary: A tokenzier for Sass' SCSS syntax
 homepage: https://github.com/sasstools/scss-tokenizer
@@ -31,4 +31,3 @@ licenses:
     SOFTWARE.
 
 notices: []
-...

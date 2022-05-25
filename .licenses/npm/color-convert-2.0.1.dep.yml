@@ -1,14 +1,14 @@
 ---
-name: node-sass
-version: 7.0.1
+name: color-convert
+version: 2.0.1
 type: npm
-summary: Wrapper around libsass
-homepage: https://github.com/sass/node-sass
+summary: Plain color conversion functions
+homepage: 
 license: mit
 licenses:
 - sources: LICENSE
-  text: |
-    Copyright (c) 2013-2016 Andrew Nesbitt
+  text: |+
+    Copyright (c) 2011-2016 Heather Arthur <fayearthur@gmail.com>
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the
@@ -28,4 +28,5 @@ licenses:
     LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
     WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 notices: []

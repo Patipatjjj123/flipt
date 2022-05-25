@@ -1,13 +1,15 @@
 ---
-name: cliui
-version: 7.0.4
+name: signal-exit
+version: 3.0.7
 type: npm
-summary: easily create complex multi-column command-line-interfaces
-homepage: 
+summary: when you want to fire an event no matter how a process exits.
+homepage: https://github.com/tapjs/signal-exit
 license: isc
 licenses:
 - sources: LICENSE.txt
   text: |
+    The ISC License
+
     Copyright (c) 2015, Contributors
 
     Permission to use, copy, modify, and/or distribute this software

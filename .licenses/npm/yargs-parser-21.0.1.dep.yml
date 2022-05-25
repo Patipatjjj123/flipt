@@ -1,14 +1,14 @@
 ---
-name: cliui
-version: 7.0.4
+name: yargs-parser
+version: 21.0.1
 type: npm
-summary: easily create complex multi-column command-line-interfaces
+summary: the mighty option parser used by yargs
 homepage: 
 license: isc
 licenses:
 - sources: LICENSE.txt
   text: |
-    Copyright (c) 2015, Contributors
+    Copyright (c) 2016, Contributors
 
     Permission to use, copy, modify, and/or distribute this software
     for any purpose with or without fee is hereby granted, provided
