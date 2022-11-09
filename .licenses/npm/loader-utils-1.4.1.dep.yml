@@ -1,9 +1,9 @@
 ---
 name: loader-utils
-version: 1.4.0
+version: 1.4.1
 type: npm
 summary: utils for webpack loaders
-homepage:
+homepage: 
 license: mit
 licenses:
 - sources: LICENSE
